@@ -17,6 +17,6 @@ Clone this repository
 
 Then run
 
-* ./imageResize.sh /absolute/path/to/your/image/folder image_size *
+* ./imageResize.sh /absolute/path/to/your/image/folder image_size
 
 Please dont hesitate to ask for modification or sending out patches
