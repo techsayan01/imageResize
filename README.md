@@ -17,6 +17,6 @@ Clone this repository
 
 Then run
 
-./imageResize.sh "<absolute path of the image folder location>" "<size of the image>"
+##./imageResize.sh <absolute path of the image folder location> <size of the image>
 
 Please dont hesitate to ask for modification or sending out patches
