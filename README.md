@@ -13,10 +13,10 @@ apt-get install sip
 Usage for this 
 Download the script in the desired folder were you need to convert the images. You can do it by
 
-git clone https://github.com/techsayan01/imageResize.git
+Clone this repository
 
 Then run
 
-./imageResize.sh <absolute path of the image folder location> <size of the image>
+./imageResize.sh "<absolute path of the image folder location>" "<size of the image>"
 
 Please dont hesitate to ask for modification or sending out patches
