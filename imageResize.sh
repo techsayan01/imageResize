@@ -4,10 +4,10 @@
 #This will recursively change all the images inside the folder to the below format
 
 #Folder path where to reduce the images
-initial_folder="/path/to/your/folder"
+initial_folder=$1
 
 #Size of the image in px
-image_size=224
+image_size=$2
 
 # You can use "." to target the folder in which you are running the script for example
 resized_folder_name="resized"
