@@ -16,6 +16,7 @@ Download the script in the desired folder were you need to convert the images. Y
 git clone https://github.com/techsayan01/imageResize.git
 
 Then run
-./imageResize.sh
+
+./imageResize.sh <absolute path of the image folder location> <size of the image>
 
 Please dont hesitate to ask for modification or sending out patches
