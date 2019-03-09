@@ -5,10 +5,10 @@ This script runs properly in Linux and Mac in bin or bash environment.
 The purpose of this script is to modify all the files a parent folder to a designated size in px. The only dependency for this is having the sip library installed in your system.
 
 For MacOS, run a small dependency
-*brew install sip
+* brew install sip
 
 For Linux, run a small dependency
-*apt-get install sip
+* apt-get install sip
 
 Usage for this 
 Download the script in the desired folder were you need to convert the images. You can do it by
@@ -17,5 +17,5 @@ Clone this repository
 
 Then run
 
-*./imageResize.sh /absolute/path/to/your/image/folder image_size
+* ./imageResize.sh /absolute/path/to/your/image/folder image_size
 Please dont hesitate to ask for modification or sending out patches
